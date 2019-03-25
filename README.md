@@ -2,8 +2,6 @@
 
 I Created a simple stopwatch ios app in React Native based on almost entirely on a stopwatch web appliction I created in React, to compare how similar the two libraries really are.
 
-View Demo GIF - https://giphy.com/gifs/piJArzu2kGHMVPhNGx/html5
-
 ![GIF DEMO](https://media.giphy.com/media/piJArzu2kGHMVPhNGx/giphy.gif)
 
 ### Prerequisites
